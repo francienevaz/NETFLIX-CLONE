@@ -6,6 +6,11 @@
         margin-top: 5px;
         width: 300px
     }
+   .spider {
+       display: flex;
+       margin-left: 50px;
+
+   }
 }
 
 @media screen and (min-width:1000px) {
